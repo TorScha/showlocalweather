@@ -1,0 +1,59 @@
+body {
+    background-color: slategrey;
+}
+
+#switch {
+    padding: 0;
+    /*border: 0;*/
+    text-decoration: none;
+    cursor: pointer;
+}
+#switch a:hover {
+    color: aqua;
+
+}
+.thunderstorm {
+    background-image: url("https://aos.iacpublishinglabs.com/question/aq/1400px-788px/thunderstorms-made_fdef5d2957edbe09.jpg?domain=cx.aos.ask.com");
+}
+.drizzle {
+    background-image: url("https://dmontesino.files.wordpress.com/2013/05/rainy-sail-052613.jpg");
+}
+.rain {
+    background-image: url("https://c758759.ssl.cf2.rackcdn.com/lists/5362/A-Rainy-Day-Fund-is-Your-Top-Priority.jpg");
+}
+.snow {
+    background-image: url("http://miriadna.com/desctopwalls/images/max/Snowy-bridge.jpg");
+}
+.atmosphere {
+    background-image: url("http://wetterkanal.kachelmannwetter.com/wp-content/uploads/2015/08/Nebel.jpg");
+}
+.clear {
+    background-image: url("http://7-themes.com/data_images/out/42/6914623-sunny-coast.jpg");
+}
+.clouds {
+    background-image: url("http://cdn.wallpapersafari.com/59/56/OIKtYn.jpg");
+}
+.extreme {
+    background-image: url("http://media4.s-nbcnews.com/j/newscms/2016_40/1736821/161004-cuba-hurricane-1130p_5a83b732e2107e3c84065215ccc43f39.nbcnews-ux-2880-1000.jpg");
+}
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-left: 0;
+    padding-right: 0;
+}
+.jumbotron {
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 11%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: darkorange;
+}
+.jumbotron p {
+    margin-bottom: 0;
+}
+.header {
+    font-family: 'Ranga', cursive;
+    text-align: center;
+    color: darkorange;
+}
